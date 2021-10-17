@@ -1,0 +1,34 @@
+{
+	"name": "atom-dark",
+	"displayName": "Atom Dark+",
+	"publisher": "yobson",
+	"description": "Default Dark+ combined with Atom One Dark",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Atom Dark+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atom Dark+-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yobson1/atom-dark-plus"
+	},
+	"homepage": "https://github.com/yobson1/atom-dark-plus/blob/master/README.md",
+	"license": "GNU GENERAL PUBLIC LICENSE",
+	"__metadata": {
+		"id": "fbe1a7d5-bd90-432f-9001-8bcbd0ee60db",
+		"publisherId": "047cbb31-740b-41c3-98d0-e38b77323079",
+		"publisherDisplayName": "yobson",
+		"installedTimestamp": 1633523309173
+	}
+}
